@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCoreCookieAuthentication", "AspNetCoreCookieAuthentication.csproj", "{DFFCCA12-5520-4FDD-9F64-8DBD8BA86CA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFFCCA12-5520-4FDD-9F64-8DBD8BA86CA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFFCCA12-5520-4FDD-9F64-8DBD8BA86CA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFFCCA12-5520-4FDD-9F64-8DBD8BA86CA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFFCCA12-5520-4FDD-9F64-8DBD8BA86CA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F7E6BFC-92EF-47E7-AA3E-A0EAF94A269D}
+	EndGlobalSection
+EndGlobal
